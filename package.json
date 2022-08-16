@@ -11,6 +11,7 @@
   "files": [
     "/dist"
   ],
+  "type": "module",
   "keywords": [
     "stripe",
     "payments",
