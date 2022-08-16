@@ -1,0 +1,24 @@
+{
+  "name": "be-jeweled",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masonschafercodes/be-jeweled.git"
+  },
+  "description": "Package for easily creating a stripe client for your project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "keywords": [
+    "stripe",
+    "payments",
+    "web",
+    "webhooks",
+    "api",
+    "client"
+  ],
+  "author": "masonschafercodes",
+  "license": "MIT"
+}
