@@ -1,1 +1,0 @@
-export { BeJeweledClient } from "./client";
